@@ -1,0 +1,19 @@
+.list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border: red 1px solid; */
+    /* background-color: #fefefe; */
+    height: 100%;
+    min-width: 70%;
+    max-width: 80%;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 7px;
+    font-size: 110%;
+    /* add box shadow */
+  }
+  /* #3C6DB4 */
+  
+  
